@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: A Student's Blog
-subtitle: Zhang Jun's Blog
-description: This website is used to share my study experience.
+title: 我是马小松
+subtitle: 马小松的博客
+description: 这个网站用于知识分享与生活记录
 keywords:
-author: Zhang Jun
+author: 章骏
 language: zh-CN
 timezone: Asia/Shanghai
 
