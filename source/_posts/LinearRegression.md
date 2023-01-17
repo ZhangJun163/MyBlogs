@@ -9,6 +9,7 @@ categories:
 - Mathematical Modeling
 math: true 
 index_img: /picture/LinearRegression/844px-Linear_least_squares.svg.png
+banner_img: /picture/LinearRegression/844px-Linear_least_squares.svg.png
 excerpt: 线性回归（Linear regression）是利用称为线性回归方程的最小二乘函数对一个或多个自变量和因变量之间关系进行建模的一种回归分析。
 ---
 
