@@ -39,7 +39,7 @@ article.archive {
   content: '#';
 }
 .archive-post time a:hover {
-  color: #f03838;
+  color: #1e90ff;
 }
 @media (prefers-color-scheme: dark) {
   .archive-post .archive-title {
@@ -55,6 +55,6 @@ article.archive {
     color: #8e8e93;
   }
   .archive-post time a:hover {
-    color: #f03838;
+    color: #1e90ff;
   }
 }
