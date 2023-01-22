@@ -133,7 +133,7 @@ article code {
   padding: 2px 4px;
   margin-left: 2px;
   margin-right: 2px;
-  color: #c7254e;
+  color: #87cefa;
   white-space: normal;
   border-radius: 0;
 }
@@ -209,6 +209,6 @@ article table pre {
     color: #fff;
   }
   article code {
-    color: #f45542;
+    color: #87cefa;
   }
 }
