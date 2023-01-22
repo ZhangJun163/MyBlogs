@@ -4,8 +4,8 @@
 
 # Site
 title: 蓝马程序员
-subtitle: 马小松的博客
-description: 这个网站用于知识分享与生活记录
+subtitle: ''
+description: ''
 keywords:
 author: 章骏
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.zj-blogs
+url: https://blog.zj-blogs.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -41,6 +41,9 @@ external_link:
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 highlight:
@@ -97,7 +100,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: Hacker
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
